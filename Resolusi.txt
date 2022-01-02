@@ -3,3 +3,5 @@ Resolusi 2022
 - Saya ingin menguasai Node Js
 - Saya Ingin Menguasai SQL 
 - Saya ingin Menguasai Database management system 
+- Saya ingin menjadi Data Scientist yang expert
+
