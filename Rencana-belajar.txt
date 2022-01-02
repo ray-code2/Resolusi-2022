@@ -1,4 +1,7 @@
 Rencana Belajar 
 
-- Belajar Github Sampai Ngerti 
+- Belajar Github Sampai mabok
 - Dengan Menonton serta Mempraktekan materi github yang dijelaskan di youtube WebprogrammingUnpas
+- Belajar Laravel 
+- Belajar React.js
+- belajar Git 
